@@ -17,7 +17,7 @@ app.add_middleware(
         "http://localhost:5173",
         "http://127.0.0.1:5173",
         # "https://otp-api-v1.vercel.app"
-        "otp-auth-ten.vercel.app"
+        "https://otp-auth-ten.vercel.app"
     ],
     allow_credentials=True,
     allow_methods=["*"],
